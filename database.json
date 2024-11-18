@@ -1,0 +1,2551 @@
+{
+  "customs": [
+    {
+      "name": "樊淑玲",
+      "ab": "fsl",
+      "sex": 0,
+      "phone": "1427",
+      "birth": "2018-09-25",
+      "addr": "洛南县",
+      "id": 1
+    },
+    {
+      "name": "葫芦",
+      "ab": "hl",
+      "sex": 1,
+      "phone": "123456",
+      "birth": "2018-08-16",
+      "addr": "无锡",
+      "id": 2
+    },
+    {
+      "name": "成哥",
+      "ab": "成哥",
+      "sex": 1,
+      "phone": "88888888888",
+      "birth": "2019-01-11",
+      "addr": "好",
+      "id": 3
+    },
+    {
+      "name": "王姐",
+      "ab": "王姐",
+      "sex": 0,
+      "phone": "13788",
+      "birth": "2019-01-14",
+      "addr": "天津",
+      "id": 4
+    },
+    {
+      "name": "胡哥",
+      "ab": "hg",
+      "sex": 1,
+      "phone": "155",
+      "birth": "2019-01-18",
+      "addr": "大纲",
+      "id": 5
+    },
+    {
+      "name": "坤哥v",
+      "ab": "kg",
+      "sex": 1,
+      "phone": "1111111111",
+      "birth": "2019-01-26",
+      "addr": "哈尔滨",
+      "id": 6
+    },
+    {
+      "name": "孙效",
+      "ab": "sx",
+      "sex": 1,
+      "phone": "18368",
+      "birth": "2019-02-10",
+      "addr": "山东",
+      "id": 7
+    },
+    {
+      "name": "王艺",
+      "ab": "wy",
+      "sex": 0,
+      "phone": "1866",
+      "birth": "2019-02-13",
+      "addr": "山东新村8排",
+      "id": 8
+    },
+    {
+      "name": "邵",
+      "ab": "s",
+      "sex": 0,
+      "phone": "000000000000",
+      "birth": "2019-02-22",
+      "addr": "山东",
+      "id": 9
+    },
+    {
+      "name": "李",
+      "ab": "l",
+      "sex": 0,
+      "phone": "11111111",
+      "birth": "2019-03-31",
+      "addr": "天津",
+      "id": 10
+    },
+    {
+      "name": "秀峰",
+      "ab": "秀峰",
+      "sex": 0,
+      "phone": "77777777",
+      "birth": "2019-05-18",
+      "addr": "明白",
+      "id": 11
+    },
+    {
+      "name": "沧州",
+      "ab": "cz",
+      "sex": 1,
+      "phone": "1111111111",
+      "birth": "2019-06-03",
+      "addr": "沧县",
+      "id": 12
+    },
+    {
+      "name": "22222222",
+      "ab": "2222222",
+      "sex": 0,
+      "phone": "222222222222222",
+      "birth": "2019-06-09",
+      "addr": "黑",
+      "id": 13
+    },
+    {
+      "name": "平",
+      "ab": "p",
+      "sex": 0,
+      "phone": "",
+      "birth": "2019-12-29",
+      "addr": "哈尔滨",
+      "id": 14
+    },
+    {
+      "name": "王五",
+      "ab": "ww",
+      "sex": 1,
+      "phone": "135542",
+      "birth": "2000-01-06",
+      "addr": "北京",
+      "id": 15
+    },
+    {
+      "name": "张端阳",
+      "ab": "zdy",
+      "sex": 1,
+      "phone": "28岁",
+      "birth": "2020-12-20",
+      "addr": "武汉",
+      "id": 16
+    },
+    {
+      "name": "我",
+      "ab": "w",
+      "sex": 0,
+      "phone": "",
+      "birth": "2021-01-14",
+      "addr": "石家庄",
+      "id": 17
+    },
+    {
+      "name": "胡",
+      "ab": "h",
+      "sex": 1,
+      "phone": "",
+      "birth": "2021-02-02",
+      "addr": "天津",
+      "id": 18
+    },
+    {
+      "name": "新疆",
+      "ab": "xj",
+      "sex": 1,
+      "phone": "",
+      "birth": "2021-02-27",
+      "addr": "123",
+      "id": 19
+    },
+    {
+      "name": "张",
+      "ab": "z",
+      "sex": 1,
+      "phone": "123",
+      "birth": "2020-05-05",
+      "addr": "武汉",
+      "id": 20
+    },
+    {
+      "name": "无锡",
+      "ab": "ws",
+      "sex": 0,
+      "phone": "123",
+      "birth": "2021-06-02",
+      "addr": "无锡",
+      "id": 21
+    },
+    {
+      "name": "王文仙",
+      "ab": "wwx",
+      "sex": 0,
+      "phone": "123",
+      "birth": "2021-06-07",
+      "addr": "无锡",
+      "id": 22
+    },
+    {
+      "name": "冯嘉堡",
+      "ab": "fjb",
+      "sex": 1,
+      "phone": "",
+      "birth": "2022-05-23",
+      "addr": "晋中",
+      "id": 23
+    },
+    {
+      "name": "李局",
+      "ab": "lj",
+      "sex": 1,
+      "phone": "",
+      "birth": "2022-05-27",
+      "addr": "元",
+      "id": 24
+    }
+  ],
+  "materials": [
+    {
+      "name": "生地黄",
+      "ab": "sdh",
+      "price": 85,
+      "storage": 0,
+      "id": 38,
+      "common": true
+    },
+    {
+      "name": "熟地黄",
+      "ab": "sdh",
+      "price": 85,
+      "storage": 0,
+      "id": 39,
+      "common": true
+    },
+    {
+      "name": "当归",
+      "ab": "dg",
+      "price": 200,
+      "storage": 0,
+      "id": 40,
+      "common": true
+    },
+    {
+      "name": "川穹",
+      "ab": "cq",
+      "price": 65,
+      "storage": 0,
+      "id": 41,
+      "common": true
+    },
+    {
+      "name": "牡丹皮",
+      "ab": "mdp",
+      "price": 170,
+      "storage": 0,
+      "id": 42,
+      "common": true
+    },
+    {
+      "name": "桃仁",
+      "ab": "tr",
+      "price": 80,
+      "storage": 0,
+      "id": 43,
+      "common": true
+    },
+    {
+      "name": "桔梗",
+      "ab": "jg",
+      "price": 100,
+      "storage": 0,
+      "id": 44,
+      "common": true
+    },
+    {
+      "name": "栀子",
+      "ab": "zz",
+      "price": 54,
+      "storage": 0,
+      "id": 45,
+      "common": true
+    },
+    {
+      "name": "天雄",
+      "ab": "tx",
+      "price": 140,
+      "storage": 0,
+      "id": 46,
+      "common": true
+    },
+    {
+      "name": "乌头",
+      "ab": "wt",
+      "price": 51,
+      "storage": 0,
+      "id": 47,
+      "common": true
+    },
+    {
+      "name": "吴茱萸",
+      "ab": "wzy",
+      "price": 70,
+      "storage": 0,
+      "id": 50,
+      "common": true
+    },
+    {
+      "name": "旋复花",
+      "ab": "xfh",
+      "price": 24,
+      "storage": 0,
+      "id": 51,
+      "common": true
+    },
+    {
+      "name": "酸枣仁",
+      "ab": "szr",
+      "price": 1100,
+      "storage": 0,
+      "id": 52,
+      "common": true
+    },
+    {
+      "name": "防己",
+      "ab": "fj",
+      "price": 193,
+      "storage": 0,
+      "id": 53,
+      "common": true
+    },
+    {
+      "name": "木防己",
+      "ab": "mfj",
+      "price": 43,
+      "storage": 0,
+      "id": 54,
+      "common": true
+    },
+    {
+      "name": "泽泻",
+      "ab": "zx",
+      "price": 80,
+      "storage": 0,
+      "id": 55,
+      "common": true
+    },
+    {
+      "name": "百合",
+      "ab": "bh",
+      "price": 100,
+      "storage": 0,
+      "id": 56,
+      "common": true
+    },
+    {
+      "name": "知母",
+      "ab": "zm",
+      "price": 45,
+      "storage": 0,
+      "id": 57,
+      "common": true
+    },
+    {
+      "name": "薤白",
+      "ab": "xb",
+      "price": 55,
+      "storage": 0,
+      "id": 58,
+      "common": true
+    },
+    {
+      "name": "麻仁",
+      "ab": "mr",
+      "price": 36,
+      "storage": 0,
+      "id": 59,
+      "common": true
+    },
+    {
+      "name": "连翘",
+      "ab": "lq",
+      "price": 160,
+      "storage": 0,
+      "id": 60,
+      "common": true
+    },
+    {
+      "name": "竹叶",
+      "ab": "zy",
+      "price": 26,
+      "storage": 0,
+      "id": 61,
+      "common": true
+    },
+    {
+      "name": "菊花",
+      "ab": "jh",
+      "price": 0,
+      "storage": 0,
+      "id": 63
+    },
+    {
+      "name": "龙骨",
+      "ab": "lg",
+      "price": 95,
+      "storage": 0,
+      "id": 64,
+      "common": true
+    },
+    {
+      "name": "牡蛎",
+      "ab": "ml",
+      "price": 10,
+      "storage": 0,
+      "id": 65,
+      "common": true
+    },
+    {
+      "name": "鳖甲",
+      "ab": "bj",
+      "price": 200,
+      "storage": 0,
+      "id": 66,
+      "common": true
+    },
+    {
+      "name": "升麻",
+      "ab": "sm",
+      "price": 120,
+      "storage": 0,
+      "id": 67,
+      "common": true
+    },
+    {
+      "name": "薏苡仁",
+      "ab": "yyr",
+      "price": 18,
+      "storage": 0,
+      "id": 68,
+      "common": true
+    },
+    {
+      "name": "通草",
+      "ab": "tc",
+      "price": 202,
+      "storage": 0,
+      "id": 69,
+      "common": true
+    },
+    {
+      "name": "葶苈",
+      "ab": "tl",
+      "price": 19,
+      "storage": 0,
+      "id": 70,
+      "common": true
+    },
+    {
+      "name": "射干",
+      "ab": "sg",
+      "price": 70,
+      "storage": 0,
+      "id": 71,
+      "common": true
+    },
+    {
+      "name": "梓白皮",
+      "ab": "zbp",
+      "price": 0,
+      "storage": 0,
+      "id": 72
+    },
+    {
+      "name": "瓜蒂",
+      "ab": "gd",
+      "price": 300,
+      "storage": 0,
+      "id": 73,
+      "common": true
+    },
+    {
+      "name": "衣鱼",
+      "ab": "yy",
+      "price": 0,
+      "storage": 0,
+      "id": 74
+    },
+    {
+      "name": "戎盐",
+      "ab": "ry",
+      "price": 45,
+      "storage": 0,
+      "id": 75,
+      "common": true
+    },
+    {
+      "name": "水蛭",
+      "ab": "sz",
+      "price": 3000,
+      "storage": 0,
+      "id": 76,
+      "common": true
+    },
+    {
+      "name": " 虻虫",
+      "ab": "mc",
+      "price": 600,
+      "storage": 0,
+      "id": 77,
+      "common": true
+    },
+    {
+      "name": "矾石",
+      "ab": "fs",
+      "price": 10,
+      "storage": 0,
+      "id": 78,
+      "common": true
+    },
+    {
+      "name": "硝石",
+      "ab": "xs",
+      "price": 15,
+      "storage": 0,
+      "id": 79,
+      "common": true
+    },
+    {
+      "name": "滑石",
+      "ab": "hs",
+      "price": 15,
+      "storage": 0,
+      "id": 80,
+      "common": true
+    },
+    {
+      "name": "禹余粮",
+      "ab": "yyl",
+      "price": 45,
+      "storage": 0,
+      "id": 81,
+      "common": true
+    },
+    {
+      "name": "代赭石",
+      "ab": "dzs",
+      "price": 40,
+      "storage": 0,
+      "id": 82,
+      "common": true
+    },
+    {
+      "name": "泽漆",
+      "ab": "zq",
+      "price": 0,
+      "storage": 0,
+      "id": 83,
+      "common": true
+    },
+    {
+      "name": "紫参",
+      "ab": "zs",
+      "price": 0,
+      "storage": 0,
+      "id": 84,
+      "common": true
+    },
+    {
+      "name": "陈皮",
+      "ab": "cp",
+      "price": 0,
+      "storage": 0,
+      "id": 85,
+      "common": true
+    },
+    {
+      "name": "香蒲",
+      "ab": "xp",
+      "price": 0,
+      "storage": 0,
+      "id": 86,
+      "common": true
+    },
+    {
+      "name": "蒲黄",
+      "ab": "ph",
+      "price": 0,
+      "storage": 0,
+      "id": 87,
+      "common": true
+    },
+    {
+      "name": "王不留行",
+      "ab": "wblx",
+      "price": 0,
+      "storage": 0,
+      "id": 88,
+      "common": true
+    },
+    {
+      "name": "茜根",
+      "ab": "qg",
+      "price": 163,
+      "storage": 0,
+      "id": 89,
+      "common": true
+    },
+    {
+      "name": "蜀漆",
+      "ab": "sq",
+      "price": 0,
+      "storage": 0,
+      "id": 90,
+      "common": true
+    },
+    {
+      "name": "狼牙",
+      "ab": "ly",
+      "price": 550,
+      "storage": 0,
+      "id": 91,
+      "common": true
+    },
+    {
+      "name": "猪苓",
+      "ab": "zl",
+      "price": 300,
+      "storage": 0,
+      "id": 92,
+      "common": true
+    },
+    {
+      "name": "白头翁",
+      "ab": "btw",
+      "price": 210,
+      "storage": 0,
+      "id": 93,
+      "common": true
+    },
+    {
+      "name": "巴豆",
+      "ab": "bd",
+      "price": 44,
+      "storage": 0,
+      "id": 94,
+      "common": true
+    },
+    {
+      "name": "贝母",
+      "ab": "bm",
+      "price": 4000,
+      "storage": 0,
+      "id": 95,
+      "common": true
+    },
+    {
+      "name": "皂荚",
+      "ab": "zj",
+      "price": 100,
+      "storage": 0,
+      "id": 96,
+      "common": true
+    },
+    {
+      "name": "藜芦",
+      "ab": "ll",
+      "price": 83,
+      "storage": 0,
+      "id": 97,
+      "common": true
+    },
+    {
+      "name": "茵陈",
+      "ab": "yc",
+      "price": 23,
+      "storage": 0,
+      "id": 98,
+      "common": true
+    },
+    {
+      "name": "苏叶",
+      "ab": "sy",
+      "price": 41,
+      "storage": 0,
+      "id": 99,
+      "common": true
+    },
+    {
+      "name": "文蛤",
+      "ab": "wg",
+      "price": 60,
+      "storage": 0,
+      "id": 100,
+      "common": true
+    },
+    {
+      "name": "五倍子",
+      "ab": "wb",
+      "price": 60,
+      "storage": 103,
+      "id": 101,
+      "common": true
+    },
+    {
+      "name": "阿胶",
+      "ab": "ej",
+      "price": 1600,
+      "storage": 0,
+      "id": 103,
+      "common": true
+    },
+    {
+      "name": "木通",
+      "ab": "mt",
+      "price": 33,
+      "storage": 0,
+      "id": 104,
+      "common": true
+    },
+    {
+      "name": "去皮桂枝",
+      "ab": "qpgz",
+      "price": 75,
+      "storage": 0,
+      "id": 106,
+      "common": true
+    },
+    {
+      "name": "桂枝",
+      "ab": "gz",
+      "price": 16,
+      "storage": 0,
+      "id": 107,
+      "common": true
+    },
+    {
+      "name": "枳实",
+      "ab": "zs",
+      "price": 105,
+      "storage": 0,
+      "id": 108,
+      "common": true
+    },
+    {
+      "name": "半夏",
+      "ab": "bx",
+      "price": 175,
+      "storage": 0,
+      "id": 109,
+      "common": true
+    },
+    {
+      "name": "赤芍",
+      "ab": "cs",
+      "price": 130,
+      "storage": 0,
+      "id": 110,
+      "common": true
+    },
+    {
+      "name": "白术",
+      "ab": "bz",
+      "price": 250,
+      "storage": 0,
+      "id": 111,
+      "common": true
+    },
+    {
+      "name": "甘草炙",
+      "ab": "gcz",
+      "price": 110,
+      "storage": 0,
+      "id": 112,
+      "common": true
+    },
+    {
+      "name": "甘草",
+      "ab": "gc",
+      "price": 60,
+      "storage": 0,
+      "id": 113,
+      "common": true
+    },
+    {
+      "name": "茯苓",
+      "ab": "fl",
+      "price": 50,
+      "storage": 0,
+      "id": 114,
+      "common": true
+    },
+    {
+      "name": "干姜",
+      "ab": "gj",
+      "price": 49,
+      "storage": 0,
+      "id": 115,
+      "common": true
+    },
+    {
+      "name": "黄芩",
+      "ab": "hq",
+      "price": 70,
+      "storage": 0,
+      "id": 116,
+      "common": true
+    },
+    {
+      "name": "人参",
+      "ab": "rs",
+      "price": 730,
+      "storage": 0,
+      "id": 117,
+      "common": true
+    },
+    {
+      "name": "干姜粉",
+      "ab": "gjf",
+      "price": 40,
+      "storage": 0,
+      "id": 118,
+      "common": true
+    },
+    {
+      "name": "浙贝母",
+      "ab": "zbm",
+      "price": 185,
+      "storage": 0,
+      "id": 119,
+      "common": true
+    },
+    {
+      "name": "瓜蒌根",
+      "ab": "glg",
+      "price": 70,
+      "storage": 0,
+      "id": 120,
+      "common": true
+    },
+    {
+      "name": "生姜",
+      "ab": "sj",
+      "price": 15,
+      "storage": 0,
+      "id": 121,
+      "common": true
+    },
+    {
+      "name": "大枣",
+      "ab": "dz",
+      "price": 20,
+      "storage": 0,
+      "id": 122,
+      "common": true
+    },
+    {
+      "name": "柴胡",
+      "ab": "ch",
+      "price": 250,
+      "storage": 0,
+      "id": 123,
+      "common": true
+    },
+    {
+      "name": "细辛",
+      "ab": "xx",
+      "price": 400,
+      "storage": 0,
+      "id": 125,
+      "common": true
+    },
+    {
+      "name": "黄连",
+      "ab": "hl",
+      "price": 500,
+      "storage": 0,
+      "id": 126,
+      "common": true
+    },
+    {
+      "name": "土元",
+      "ab": "ty",
+      "price": 140,
+      "storage": 0,
+      "id": 127,
+      "common": true
+    },
+    {
+      "name": "金钱草",
+      "ab": "jqz",
+      "price": 26,
+      "storage": 0,
+      "id": 128,
+      "common": true
+    },
+    {
+      "name": "石韦",
+      "ab": "sw",
+      "price": 29,
+      "storage": 0,
+      "id": 129,
+      "common": true
+    },
+    {
+      "name": "海金沙",
+      "ab": "hjs",
+      "price": 190,
+      "storage": 0,
+      "id": 130,
+      "common": true
+    },
+    {
+      "name": "车前子",
+      "ab": "cqz",
+      "price": 125,
+      "storage": 0,
+      "id": 131,
+      "common": true
+    },
+    {
+      "name": "麻黄",
+      "ab": "mh",
+      "price": 60,
+      "storage": 0,
+      "id": 132,
+      "common": true
+    },
+    {
+      "name": "五味子",
+      "ab": "wwz",
+      "price": 187,
+      "storage": 0,
+      "id": 133,
+      "common": true
+    },
+    {
+      "name": "赤小豆",
+      "ab": "cxd",
+      "price": 20,
+      "storage": 0,
+      "id": 134,
+      "common": true
+    },
+    {
+      "name": "大黄",
+      "ab": "dh",
+      "price": 50,
+      "storage": 0,
+      "id": 135,
+      "common": true
+    },
+    {
+      "name": "黄柏",
+      "ab": "hb",
+      "price": 86,
+      "storage": 0,
+      "id": 136,
+      "common": true
+    },
+    {
+      "name": "石膏",
+      "ab": "sg",
+      "price": 20,
+      "storage": 0,
+      "id": 138,
+      "common": true
+    },
+    {
+      "name": "葛根",
+      "ab": "gg",
+      "price": 50,
+      "storage": 0,
+      "id": 139,
+      "common": true
+    },
+    {
+      "name": "附子",
+      "ab": "fz",
+      "price": 90,
+      "storage": 0,
+      "id": 140,
+      "common": true
+    },
+    {
+      "name": "附子炮",
+      "ab": "fzp",
+      "price": 300,
+      "storage": 0,
+      "id": 141,
+      "common": true
+    },
+    {
+      "name": "厚朴",
+      "ab": "hp",
+      "price": 45,
+      "storage": 0,
+      "id": 142,
+      "common": true
+    },
+    {
+      "name": "瓜蒌",
+      "ab": "gl",
+      "price": 120,
+      "storage": 0,
+      "id": 143,
+      "common": true
+    },
+    {
+      "name": "杏仁",
+      "ab": "xr",
+      "price": 60,
+      "storage": 0,
+      "id": 144,
+      "common": true
+    },
+    {
+      "name": "茯神",
+      "ab": "fs",
+      "price": 100,
+      "storage": 0,
+      "id": 145,
+      "common": true
+    },
+    {
+      "name": "灵芝",
+      "ab": "lz",
+      "price": 60,
+      "storage": 0,
+      "id": 147,
+      "common": true
+    },
+    {
+      "name": "肉苁蓉",
+      "ab": "rcr",
+      "price": 189,
+      "storage": 0,
+      "id": 148,
+      "common": true
+    },
+    {
+      "name": "黑灵芝",
+      "ab": "hlz",
+      "price": 120,
+      "storage": 0,
+      "id": 149,
+      "common": true
+    },
+    {
+      "name": "锁阳",
+      "ab": "sy",
+      "price": 100,
+      "storage": 0,
+      "id": 150,
+      "common": true
+    },
+    {
+      "name": "雄花",
+      "ab": "xh",
+      "price": 320,
+      "storage": 0,
+      "id": 151,
+      "common": true
+    },
+    {
+      "name": "花椒",
+      "ab": "hj",
+      "price": 200,
+      "storage": 0,
+      "id": 152,
+      "common": true
+    },
+    {
+      "name": "水半夏",
+      "ab": "sbx",
+      "price": 50,
+      "storage": 0,
+      "id": 153,
+      "common": true
+    },
+    {
+      "name": "草乌",
+      "ab": "ca",
+      "price": 50,
+      "storage": 0,
+      "id": 154,
+      "common": true
+    },
+    {
+      "name": "赤石脂",
+      "ab": "csz",
+      "price": 10,
+      "storage": 0,
+      "id": 155,
+      "common": true
+    },
+    {
+      "name": "白头翁",
+      "ab": "btw",
+      "price": 210,
+      "storage": 0,
+      "id": 156,
+      "common": true
+    },
+    {
+      "name": "猫爪草",
+      "ab": "mzc",
+      "price": 162,
+      "storage": 0,
+      "id": 157,
+      "common": true
+    },
+    {
+      "name": "夏枯草",
+      "ab": "xkc",
+      "price": 60,
+      "storage": 0,
+      "id": 158,
+      "common": true
+    },
+    {
+      "name": "人参野",
+      "ab": "rs",
+      "price": 1500,
+      "storage": 0,
+      "id": 159,
+      "common": true
+    },
+    {
+      "name": "牛膝",
+      "ab": "nx",
+      "price": 42,
+      "storage": 0,
+      "id": 160,
+      "common": true
+    },
+    {
+      "name": "柏叶",
+      "ab": "by",
+      "price": 15,
+      "storage": 0,
+      "id": 161,
+      "common": true
+    },
+    {
+      "name": "炮姜",
+      "ab": "pj",
+      "price": 50,
+      "storage": 0,
+      "id": 162,
+      "common": true
+    },
+    {
+      "name": "青钱柳",
+      "ab": "qql",
+      "price": 130,
+      "storage": 0,
+      "id": 163,
+      "common": true
+    },
+    {
+      "name": "连翘",
+      "ab": "lq",
+      "price": 160,
+      "storage": 0,
+      "id": 165,
+      "common": true
+    },
+    {
+      "name": "山茱萸",
+      "ab": "szy",
+      "price": 90,
+      "storage": 0,
+      "id": 166,
+      "common": true
+    },
+    {
+      "name": "菟丝子",
+      "ab": "tsz",
+      "price": 45,
+      "storage": 0,
+      "id": 167,
+      "common": true
+    },
+    {
+      "name": "何首乌",
+      "ab": "hsw",
+      "price": 30,
+      "storage": 0,
+      "id": 171,
+      "common": true
+    },
+    {
+      "name": "蝉蜕",
+      "ab": "ct",
+      "price": 520,
+      "storage": 0,
+      "id": 172,
+      "common": true
+    },
+    {
+      "name": "前胡",
+      "ab": "qh",
+      "price": 140,
+      "storage": 0,
+      "id": 173,
+      "common": true
+    },
+    {
+      "name": "黄芪",
+      "ab": "hq",
+      "price": 70,
+      "storage": 0,
+      "id": 174,
+      "common": true
+    },
+    {
+      "name": "麦门冬",
+      "ab": "mmd",
+      "price": 220,
+      "storage": 0,
+      "id": 175,
+      "common": true
+    },
+    {
+      "name": "乳香",
+      "ab": "rx",
+      "price": 100,
+      "storage": 0,
+      "id": 176,
+      "common": true
+    },
+    {
+      "name": "没药",
+      "ab": "my",
+      "price": 105,
+      "storage": 0,
+      "id": 177,
+      "common": true
+    },
+    {
+      "name": "郁金",
+      "ab": "yj",
+      "price": 50,
+      "storage": 0,
+      "id": 178,
+      "common": true
+    },
+    {
+      "name": "白芷",
+      "ab": "bz",
+      "price": 75,
+      "storage": 0,
+      "id": 179
+    },
+    {
+      "name": "厚朴炙",
+      "ab": "hp",
+      "price": 33,
+      "storage": 0,
+      "id": 180
+    },
+    {
+      "name": "葶苈子",
+      "ab": "tlz",
+      "price": 22,
+      "storage": 0,
+      "id": 181,
+      "common": true
+    }
+  ],
+  "recepies": [],
+  "orders": [
+    {
+      "customId": 2,
+      "register": 0,
+      "date": "2018-08-16 12:14:37",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "旋复花",
+          "p": 24,
+          "amt": "45"
+        },
+        {
+          "name": "代赭石",
+          "p": 40,
+          "amt": "15"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "45"
+        },
+        {
+          "name": "麦门冬",
+          "p": 220,
+          "amt": "120"
+        },
+        {
+          "name": "甘草炙",
+          "p": 110,
+          "amt": "45"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "90"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "60"
+        },
+        {
+          "name": "半夏",
+          "p": 175,
+          "amt": "120"
+        },
+        {
+          "name": "赤芍",
+          "p": 130,
+          "amt": "45"
+        },
+        {
+          "name": "桂枝",
+          "p": 16,
+          "amt": "45"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 1440,
+      "amt": 15,
+      "id": 2
+    },
+    {
+      "customId": 1,
+      "register": 0,
+      "date": "2018-09-25 10:20:55",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "麻黄",
+          "p": 60,
+          "amt": "12"
+        },
+        {
+          "name": "葛根",
+          "p": 50,
+          "amt": "60"
+        },
+        {
+          "name": "去皮桂枝",
+          "p": 75,
+          "amt": "45"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "45"
+        },
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "45"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "45"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 271.8,
+      "amt": 15,
+      "id": 3
+    },
+    {
+      "customId": 4,
+      "register": 0,
+      "date": "2019-01-14 07:51:55",
+      "status": 3,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "当归",
+          "p": 80,
+          "amt": "20"
+        },
+        {
+          "name": "川穹",
+          "p": 65,
+          "amt": "20"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "20"
+        },
+        {
+          "name": "赤石脂",
+          "p": 10,
+          "amt": "20"
+        },
+        {
+          "name": "熟地黄",
+          "p": 85,
+          "amt": "30"
+        },
+        {
+          "name": "阿胶",
+          "p": 1600,
+          "amt": "30"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 840.75,
+      "amt": 15,
+      "id": 4
+    },
+    {
+      "customId": 5,
+      "register": 0,
+      "date": "2019-01-18 12:29:04",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "茯苓",
+          "p": 50,
+          "amt": "60"
+        },
+        {
+          "name": "白术",
+          "p": 68,
+          "amt": "60"
+        },
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "桂枝",
+          "p": 16,
+          "amt": "30"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "20"
+        },
+        {
+          "name": "干姜",
+          "p": 49,
+          "amt": "10"
+        },
+        {
+          "name": "半夏",
+          "p": 175,
+          "amt": "60"
+        },
+        {
+          "name": "吴茱萸",
+          "p": 70,
+          "amt": "20"
+        },
+        {
+          "name": "瓜蒌根",
+          "p": 70,
+          "amt": "60"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "30"
+        },
+        {
+          "name": "白芷",
+          "p": 75,
+          "amt": "10"
+        },
+        {
+          "name": "牡蛎",
+          "p": 10,
+          "amt": "45"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 904.4,
+      "amt": 19,
+      "id": 5
+    },
+    {
+      "customId": 7,
+      "register": 0,
+      "date": "2019-02-10 08:26:45",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "黄连",
+          "p": 400,
+          "amt": "45"
+        },
+        {
+          "name": "黄芩",
+          "p": 70,
+          "amt": "45"
+        },
+        {
+          "name": "石膏",
+          "p": 20,
+          "amt": "120"
+        },
+        {
+          "name": "甘草",
+          "p": 60,
+          "amt": "30"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 25.35,
+      "amt": 1,
+      "id": 7
+    },
+    {
+      "customId": 8,
+      "register": 0,
+      "date": "2019-02-13 11:10:39",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "去皮桂枝",
+          "p": 75,
+          "amt": "45"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "45"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "45"
+        },
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "45"
+        },
+        {
+          "name": "白术",
+          "p": 68,
+          "amt": "60"
+        },
+        {
+          "name": "茯苓",
+          "p": 50,
+          "amt": "60"
+        },
+        {
+          "name": "黄芪",
+          "p": 60,
+          "amt": "60"
+        },
+        {
+          "name": "防己",
+          "p": 193,
+          "amt": "30"
+        },
+        {
+          "name": "麻黄",
+          "p": 60,
+          "amt": "12"
+        },
+        {
+          "name": "半夏",
+          "p": 175,
+          "amt": "60"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 378.81,
+      "amt": 9,
+      "id": 8
+    },
+    {
+      "customId": 9,
+      "register": 0,
+      "date": "2019-02-22 09:13:21",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "柴胡",
+          "p": 140,
+          "amt": "120"
+        },
+        {
+          "name": "黄芩",
+          "p": 65,
+          "amt": "45"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "30"
+        },
+        {
+          "name": "瓜蒌根",
+          "p": 70,
+          "amt": "60"
+        },
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "45"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "45"
+        },
+        {
+          "name": "干姜",
+          "p": 49,
+          "amt": "30"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 793.8,
+      "amt": 15,
+      "id": 9
+    },
+    {
+      "customId": 10,
+      "register": 0,
+      "date": "2019-03-31 11:33:46",
+      "status": 3,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "吴茱萸",
+          "p": 70,
+          "amt": "45"
+        },
+        {
+          "name": "当归",
+          "p": 68,
+          "amt": "30"
+        },
+        {
+          "name": "川穹",
+          "p": 60,
+          "amt": "30"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "30"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "30"
+        },
+        {
+          "name": "桂枝",
+          "p": 16,
+          "amt": "30"
+        },
+        {
+          "name": "阿胶",
+          "p": 1600,
+          "amt": "30"
+        },
+        {
+          "name": "牡丹皮",
+          "p": 70,
+          "amt": "30"
+        },
+        {
+          "name": "甘草",
+          "p": 50,
+          "amt": "30"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "30"
+        },
+        {
+          "name": "土元",
+          "p": 170,
+          "amt": "15"
+        },
+        {
+          "name": "水蛭",
+          "p": 2000,
+          "amt": "5"
+        },
+        {
+          "name": "赤石脂",
+          "p": 10,
+          "amt": "45"
+        },
+        {
+          "name": " 虻虫",
+          "p": 600,
+          "amt": "2"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 1488.3,
+      "amt": 15,
+      "id": 10
+    },
+    {
+      "customId": 10,
+      "register": 0,
+      "date": "2019-04-15 02:01:29",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "牡丹皮",
+          "p": 43,
+          "amt": "30"
+        },
+        {
+          "name": " 虻虫",
+          "p": 600,
+          "amt": "2"
+        },
+        {
+          "name": "桃仁",
+          "p": 60,
+          "amt": "15"
+        },
+        {
+          "name": "土元",
+          "p": 60,
+          "amt": "20"
+        },
+        {
+          "name": "水蛭",
+          "p": 1380,
+          "amt": "15"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "15"
+        },
+        {
+          "name": "桂枝",
+          "p": 16,
+          "amt": "45"
+        },
+        {
+          "name": "当归",
+          "p": 52,
+          "amt": "15"
+        },
+        {
+          "name": "川穹",
+          "p": 50,
+          "amt": "15"
+        },
+        {
+          "name": "连翘",
+          "p": 160,
+          "amt": "30"
+        },
+        {
+          "name": "阿胶",
+          "p": 1600,
+          "amt": "30"
+        },
+        {
+          "name": "半夏",
+          "p": 175,
+          "amt": "60"
+        },
+        {
+          "name": "赤小豆",
+          "p": 8,
+          "amt": "45"
+        },
+        {
+          "name": "黄连",
+          "p": 220,
+          "amt": "30"
+        },
+        {
+          "name": "茯苓",
+          "p": 50,
+          "amt": "45"
+        },
+        {
+          "name": "土元",
+          "p": 170,
+          "amt": "20"
+        },
+        {
+          "name": "赤石脂",
+          "p": 10,
+          "amt": "45"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 1585.5,
+      "amt": 15,
+      "id": 11
+    },
+    {
+      "customId": 11,
+      "register": 0,
+      "date": "2019-05-18 03:30:51",
+      "status": 3,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "120"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "120"
+        },
+        {
+          "name": "桂枝",
+          "p": 16,
+          "amt": "45"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "45"
+        },
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "半夏",
+          "p": 175,
+          "amt": "250"
+        },
+        {
+          "name": "麦门冬",
+          "p": 220,
+          "amt": "1000"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "45"
+        },
+        {
+          "name": "旋复花",
+          "p": 24,
+          "amt": "45"
+        },
+        {
+          "name": "代赭石",
+          "p": 40,
+          "amt": "20"
+        },
+        {
+          "name": "麻仁",
+          "p": 36,
+          "amt": "50"
+        },
+        {
+          "name": "生地黄",
+          "p": 85,
+          "amt": "250"
+        },
+        {
+          "name": "阿胶",
+          "p": 1600,
+          "amt": "30"
+        },
+        {
+          "name": "赤芍",
+          "p": 130,
+          "amt": "45"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 1948.75,
+      "amt": 5,
+      "id": 12
+    },
+    {
+      "customId": 3,
+      "register": 0,
+      "date": "2019-07-05 07:24:41",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "45"
+        },
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "30"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "45"
+        },
+        {
+          "name": "桂枝",
+          "p": 16,
+          "amt": "45"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "45"
+        },
+        {
+          "name": "桃仁",
+          "p": 80,
+          "amt": "20"
+        },
+        {
+          "name": "牡丹皮",
+          "p": 70,
+          "amt": "45"
+        },
+        {
+          "name": "土元",
+          "p": 170,
+          "amt": "15"
+        },
+        {
+          "name": "当归",
+          "p": 80,
+          "amt": "20"
+        },
+        {
+          "name": "川穹",
+          "p": 65,
+          "amt": "20"
+        },
+        {
+          "name": "牡蛎",
+          "p": 10,
+          "amt": "45"
+        },
+        {
+          "name": "瓜蒌根",
+          "p": 70,
+          "amt": "60"
+        },
+        {
+          "name": "熟地黄",
+          "p": 85,
+          "amt": "30"
+        },
+        {
+          "name": "茯苓",
+          "p": 50,
+          "amt": "45"
+        },
+        {
+          "name": "连翘",
+          "p": 160,
+          "amt": "30"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 871.425,
+      "amt": 15,
+      "id": 14
+    },
+    {
+      "customId": 14,
+      "register": 0,
+      "date": "2020-04-12 08:31:51",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "桂枝",
+          "p": 16,
+          "amt": "20"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "20"
+        },
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "45"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "45"
+        },
+        {
+          "name": "大黄",
+          "p": 50,
+          "amt": "10"
+        },
+        {
+          "name": "桃仁",
+          "p": 80,
+          "amt": "10"
+        },
+        {
+          "name": "牡丹皮",
+          "p": 70,
+          "amt": "45"
+        },
+        {
+          "name": "牡蛎",
+          "p": 10,
+          "amt": "45"
+        },
+        {
+          "name": "土元",
+          "p": 170,
+          "amt": "15"
+        },
+        {
+          "name": "熟地黄",
+          "p": 85,
+          "amt": "60"
+        },
+        {
+          "name": "水半夏",
+          "p": 50,
+          "amt": "45"
+        },
+        {
+          "name": "连翘",
+          "p": 160,
+          "amt": "30"
+        },
+        {
+          "name": "车前子",
+          "p": 125,
+          "amt": "15"
+        },
+        {
+          "name": "石膏",
+          "p": 15,
+          "amt": "60"
+        },
+        {
+          "name": "当归",
+          "p": 80,
+          "amt": "15"
+        },
+        {
+          "name": "川穹",
+          "p": 65,
+          "amt": "15"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "20"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 237.475,
+      "amt": 5,
+      "id": 15
+    },
+    {
+      "customId": 16,
+      "register": 0,
+      "date": "2020-12-19 05:26:40",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "牡蛎",
+          "p": 10,
+          "amt": "60"
+        },
+        {
+          "name": "人参",
+          "p": 650,
+          "amt": "45"
+        },
+        {
+          "name": "甘草炙",
+          "p": 46,
+          "amt": "60"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "60"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "45"
+        },
+        {
+          "name": "附子",
+          "p": 90,
+          "amt": "15"
+        },
+        {
+          "name": "白术",
+          "p": 68,
+          "amt": "60"
+        },
+        {
+          "name": "茯苓",
+          "p": 40,
+          "amt": "45"
+        },
+        {
+          "name": "黄连",
+          "p": 200,
+          "amt": "15"
+        },
+        {
+          "name": "酸枣仁",
+          "p": 355,
+          "amt": "60"
+        },
+        {
+          "name": "龙骨",
+          "p": 95,
+          "amt": "45"
+        },
+        {
+          "name": "黄芪",
+          "p": 60,
+          "amt": "60"
+        },
+        {
+          "name": "干姜",
+          "p": 49,
+          "amt": "15"
+        },
+        {
+          "name": "瓜蒌根",
+          "p": 40,
+          "amt": "45"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 381.75,
+      "amt": 5,
+      "id": 17
+    },
+    {
+      "customId": 17,
+      "register": 0,
+      "date": "2021-01-18 08:21:42",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "赤石脂",
+          "p": 10,
+          "amt": "20"
+        },
+        {
+          "name": "桔梗",
+          "p": 70,
+          "amt": "45"
+        },
+        {
+          "name": "甘草",
+          "p": 50,
+          "amt": "30"
+        },
+        {
+          "name": "枳实",
+          "p": 105,
+          "amt": "60"
+        },
+        {
+          "name": "生地黄",
+          "p": 85,
+          "amt": "45"
+        },
+        {
+          "name": "牡丹皮",
+          "p": 70,
+          "amt": "30"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "45"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 112.375,
+      "amt": 5,
+      "id": 18
+    },
+    {
+      "customId": 18,
+      "register": 0,
+      "date": "2021-02-02 03:14:02",
+      "status": 2,
+      "symptom": "偏瘫无力",
+      "diagnosis": "虚",
+      "items": [
+        {
+          "name": "生地黄",
+          "p": 85,
+          "amt": "90"
+        },
+        {
+          "name": "当归",
+          "p": 140,
+          "amt": "45"
+        },
+        {
+          "name": "赤芍",
+          "p": 120,
+          "amt": "60"
+        },
+        {
+          "name": "川穹",
+          "p": 65,
+          "amt": "30"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 23.1,
+      "amt": 1,
+      "id": 19
+    },
+    {
+      "customId": 19,
+      "register": 0,
+      "date": "2021-02-27 05:06:36",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "30"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "45"
+        },
+        {
+          "name": "柴胡",
+          "p": 140,
+          "amt": "120"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "45"
+        },
+        {
+          "name": "栀子",
+          "p": 54,
+          "amt": "15"
+        },
+        {
+          "name": "黄芩",
+          "p": 65,
+          "amt": "30"
+        },
+        {
+          "name": "泽泻",
+          "p": 80,
+          "amt": "70"
+        },
+        {
+          "name": "夏枯草",
+          "p": 60,
+          "amt": "20"
+        },
+        {
+          "name": "干姜",
+          "p": 49,
+          "amt": "5"
+        },
+        {
+          "name": "五倍子",
+          "p": 60,
+          "amt": "15"
+        },
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "茯苓",
+          "p": 50,
+          "amt": "45"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 859.2,
+      "amt": 15,
+      "id": 20
+    },
+    {
+      "customId": 23,
+      "register": 0,
+      "date": "2022-05-23 08:21:32",
+      "status": 2,
+      "symptom": "肺癌肩痛",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "甘草炙",
+          "p": 90,
+          "amt": "45"
+        },
+        {
+          "name": "生姜",
+          "p": 15,
+          "amt": "45"
+        },
+        {
+          "name": "大枣",
+          "p": 20,
+          "amt": "45"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "45"
+        },
+        {
+          "name": "肉苁蓉",
+          "p": 189,
+          "amt": "45"
+        },
+        {
+          "name": "吴茱萸",
+          "p": 70,
+          "amt": "30"
+        },
+        {
+          "name": "熟地黄",
+          "p": 85,
+          "amt": "15"
+        },
+        {
+          "name": "升麻",
+          "p": 120,
+          "amt": "15"
+        },
+        {
+          "name": "水半夏",
+          "p": 50,
+          "amt": "60"
+        },
+        {
+          "name": "山茱萸",
+          "p": 90,
+          "amt": "30"
+        },
+        {
+          "name": "牡蛎",
+          "p": 10,
+          "amt": "45"
+        },
+        {
+          "name": "麻黄",
+          "p": 60,
+          "amt": "5"
+        },
+        {
+          "name": "车前子",
+          "p": 125,
+          "amt": "15"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 907.2,
+      "amt": 15,
+      "id": 22
+    },
+    {
+      "customId": 24,
+      "register": 0,
+      "date": "2022-05-27 05:34:50",
+      "status": 2,
+      "symptom": "",
+      "diagnosis": "",
+      "items": [
+        {
+          "name": "黄连",
+          "p": 220,
+          "amt": "15"
+        },
+        {
+          "name": "连翘",
+          "p": 160,
+          "amt": "30"
+        },
+        {
+          "name": "半夏",
+          "p": 175,
+          "amt": "60"
+        },
+        {
+          "name": "赤小豆",
+          "p": 8,
+          "amt": "45"
+        },
+        {
+          "name": "桃仁",
+          "p": 80,
+          "amt": "12"
+        },
+        {
+          "name": "茯苓",
+          "p": 50,
+          "amt": "45"
+        },
+        {
+          "name": "土元",
+          "p": 170,
+          "amt": "20"
+        },
+        {
+          "name": "熟地黄",
+          "p": 85,
+          "amt": "20"
+        },
+        {
+          "name": "当归",
+          "p": 70,
+          "amt": "15"
+        },
+        {
+          "name": "川穹",
+          "p": 65,
+          "amt": "15"
+        },
+        {
+          "name": "牡丹皮",
+          "p": 70,
+          "amt": "30"
+        },
+        {
+          "name": "人参",
+          "p": 730,
+          "amt": "10"
+        },
+        {
+          "name": "阿胶",
+          "p": 1600,
+          "amt": "42"
+        },
+        {
+          "name": "水蛭",
+          "p": 3000,
+          "amt": "20"
+        }
+      ],
+      "boil": false,
+      "notify": "",
+      "price": 2488.425,
+      "amt": 15,
+      "id": 23
+    }
+  ]
+}
